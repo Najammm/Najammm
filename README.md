@@ -48,19 +48,6 @@
 
 ---
 
-## ⚙️ GitHub Analytics
-
-<br>
-
-<p align="center">
-<a href="https://github.com/Najammm">
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api?username=Najammm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <br>
-  <img height="180em" width="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Najammm&layout=compact&theme=algolia"/>
-</a>
-</p>
-
----
 
 ### 🔥 Featured Projects
 
